@@ -1,0 +1,11 @@
+{
+  "name": "vik",
+  "version": "1.0.0",
+  "description": "Node. Js lightweight framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "app.js run"
+  },
+  "author": "void9main",
+  "license": "ISC"
+}
